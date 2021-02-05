@@ -1,1 +1,3 @@
-Fidget spinner Using Python Language
+# Fidget spinner Game
+# Used Language - Python
+Press space bar repeatedly to spin fidget
