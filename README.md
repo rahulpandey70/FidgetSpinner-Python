@@ -1,3 +1,3 @@
-# Fidget spinner Game
-# Used Language - Python
+# Fidget spinner 
+# Used Language and Module - Python,turtle
 Press space bar repeatedly to spin fidget
